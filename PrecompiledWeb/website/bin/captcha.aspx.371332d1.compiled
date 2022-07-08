@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bank/admin/captcha.aspx" hash="a13deeba" filehash="7a17dbaf553e72de" flags="110000" assembly="App_Web_7xg9wixk" type="ASP.bank_admin_captcha_aspx">
+    <filedeps>
+        <filedep name="/website/bank/admin/captcha.aspx" />
+        <filedep name="/website/bank/admin/captcha.aspx.cs" />
+    </filedeps>
+</preserve>

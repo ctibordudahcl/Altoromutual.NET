@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bank/admin/login.aspx" hash="a13deeba" filehash="ff2c09c42a6147b0" flags="110000" assembly="App_Web_7xg9wixk" type="ASP.bank_admin_login_aspx">
+    <filedeps>
+        <filedep name="/website/bank/admin/login.aspx" />
+        <filedep name="/website/bank/admin/login.aspx.cs" />
+        <filedep name="/website/default.master" />
+        <filedep name="/website/default.master.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

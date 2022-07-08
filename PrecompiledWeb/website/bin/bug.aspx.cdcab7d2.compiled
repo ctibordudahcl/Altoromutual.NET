@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bug.aspx" hash="a13deeba" filehash="fadfa299dfb761c7" flags="110000" assembly="App_Web_3hrp7x5f" type="ASP.bug_aspx">
+    <filedeps>
+        <filedep name="/website/bug.aspx" />
+        <filedep name="/website/bug.aspx.cs" />
+    </filedeps>
+</preserve>

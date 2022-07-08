@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bank/admin/admin.master" hash="a13deeba" filehash="c39db2ad85572c9c" flags="110000" assembly="App_Web_7xg9wixk" type="ASP.bank_admin_admin_master">
+    <filedeps>
+        <filedep name="/website/bank/admin/admin.master" />
+        <filedep name="/website/bank/admin/admin.master.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

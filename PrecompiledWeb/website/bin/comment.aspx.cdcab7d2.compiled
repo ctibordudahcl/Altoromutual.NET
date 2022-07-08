@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/comment.aspx" hash="a13deeba" filehash="3d8ed63aacd37bb5" flags="110000" assembly="App_Web_cupzwp0m" type="ASP.comment_aspx">
+    <filedeps>
+        <filedep name="/website/comment.aspx" />
+        <filedep name="/website/comment.aspx.cs" />
+        <filedep name="/website/default.master" />
+        <filedep name="/website/default.master.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

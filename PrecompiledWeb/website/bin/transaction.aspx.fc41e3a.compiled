@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bank/transaction.aspx" hash="a13deeba" filehash="f627b7832db90e01" flags="110000" assembly="App_Web_cuo86evo" type="ASP.bank_transaction_aspx">
+    <filedeps>
+        <filedep name="/website/bank/bank.master" />
+        <filedep name="/website/bank/bank.master.cs" />
+        <filedep name="/website/bank/transaction.aspx" />
+        <filedep name="/website/bank/transaction.aspx.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

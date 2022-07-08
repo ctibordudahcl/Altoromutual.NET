@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/malware/Eicar.aspx" hash="a13deeba" filehash="9451f208ad3" flags="110000" assembly="App_Web_duuqadyy" type="ASP.malware_eicar_aspx">
+    <filedeps>
+        <filedep name="/website/malware/Eicar.aspx" />
+    </filedeps>
+</preserve>

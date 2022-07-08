@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/default.aspx" hash="a13deeba" filehash="1e5a2072d81a1fc3" flags="110000" assembly="App_Web_cupzwp0m" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/website/default.aspx" />
+        <filedep name="/website/default.aspx.cs" />
+        <filedep name="/website/default.master" />
+        <filedep name="/website/default.master.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

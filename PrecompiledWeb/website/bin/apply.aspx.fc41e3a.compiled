@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/bank/apply.aspx" hash="a13deeba" filehash="64cfd9da810fb0e9" flags="110000" assembly="App_Web_cuo86evo" type="ASP.bank_apply_aspx">
+    <filedeps>
+        <filedep name="/website/bank/apply.aspx" />
+        <filedep name="/website/bank/apply.aspx.cs" />
+        <filedep name="/website/bank/bank.master" />
+        <filedep name="/website/bank/bank.master.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

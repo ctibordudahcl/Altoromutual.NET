@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/subscribe.aspx" hash="a13deeba" filehash="1cd1077339870d8a" flags="110000" assembly="App_Web_cupzwp0m" type="ASP.subscribe_aspx">
+    <filedeps>
+        <filedep name="/website/default.master" />
+        <filedep name="/website/default.master.cs" />
+        <filedep name="/website/subscribe.aspx" />
+        <filedep name="/website/subscribe.aspx.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>

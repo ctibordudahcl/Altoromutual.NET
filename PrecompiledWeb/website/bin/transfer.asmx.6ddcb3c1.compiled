@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/website/transfer/transfer.asmx" hash="fffffffffb7bcd5e" filehash="ffffea255cc2d69f" flags="130000" assembly="App_Code" type="Altoro.Services">
+    <filedeps>
+        <filedep name="/website/transfer/transfer.asmx" />
+    </filedeps>
+</preserve>

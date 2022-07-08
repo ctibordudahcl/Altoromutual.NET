@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "website", "website\", "{88E11ED9-E168-4698-A99E-E5E9533E80C7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/website"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Altoro Mutual\website\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\website\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/website"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Altoro Mutual\website\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\website\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51864"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E11ED9-E168-4698-A99E-E5E9533E80C7}.Debug|.NET.ActiveCfg = Debug|.NET
+		{88E11ED9-E168-4698-A99E-E5E9533E80C7}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

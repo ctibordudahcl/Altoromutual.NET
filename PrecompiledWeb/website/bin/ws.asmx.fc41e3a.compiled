@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/website/bank/ws.asmx" hash="fffffffffb7bcd5e" filehash="ffffe1956ab7d91a" flags="130000" assembly="App_Code" type="Altoro.Services">
+    <filedeps>
+        <filedep name="/website/bank/ws.asmx" />
+    </filedeps>
+</preserve>

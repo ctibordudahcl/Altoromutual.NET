@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/website/survey_questions.aspx" hash="a13deeba" filehash="3a7c10f56971e005" flags="110000" assembly="App_Web_cupzwp0m" type="ASP.survey_questions_aspx">
+    <filedeps>
+        <filedep name="/website/default.master" />
+        <filedep name="/website/default.master.cs" />
+        <filedep name="/website/survey_questions.aspx" />
+        <filedep name="/website/survey_questions.aspx.cs" />
+        <filedep name="/website/template.master" />
+        <filedep name="/website/template.master.cs" />
+    </filedeps>
+</preserve>
